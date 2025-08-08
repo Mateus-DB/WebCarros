@@ -1,3 +1,4 @@
+
 # 🚗 WebCarros
 
 **WebCarros** é uma plataforma para compra e venda de carros novos e usados. O usuário pode criar uma conta, cadastrar veículos, visualizar anúncios, ver detalhes dos carros e entrar em contato diretamente com o vendedor.
@@ -30,40 +31,43 @@
 
 ## 📸 Preview
 
-## 🌐 Acesse o Projeto
-[🔗 Clique aqui para acessar o WebCarros](link-do-projeto)
+![preview](link-da-imagem-ou-gif-aqui)
 
 ## 📦 Como Rodar o Projeto Localmente
 
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/seu-usuario/webcarros.git
-Instale as dependências:
+````
 
-bash
-Copiar
-Editar
-npm install
-Configure o arquivo .env com suas credenciais do Firebase:
+2. **Instale as dependências:**
 
-ini
-Copiar
-Editar
-VITE_FIREBASE_API_KEY=...
-VITE_FIREBASE_AUTH_DOMAIN=...
-VITE_FIREBASE_PROJECT_ID=...
-VITE_FIREBASE_STORAGE_BUCKET=...
-VITE_FIREBASE_MESSAGING_SENDER_ID=...
-VITE_FIREBASE_APP_ID=...
-Inicie o servidor:
+   ```bash
+   npm install
+   ```
 
-bash
-Copiar
-Editar
-npm run dev
+3. **Configure o arquivo `.env` com suas credenciais do Firebase:**
 
-🤝 Contribuições
+   ```
+   VITE_FIREBASE_API_KEY=...
+   VITE_FIREBASE_AUTH_DOMAIN=...
+   VITE_FIREBASE_PROJECT_ID=...
+   VITE_FIREBASE_STORAGE_BUCKET=...
+   VITE_FIREBASE_MESSAGING_SENDER_ID=...
+   VITE_FIREBASE_APP_ID=...
+   ```
+
+4. **Inicie o servidor:**
+
+   ```bash
+   npm run dev
+   ```
+
+## 🤝 Contribuições
+
 Contribuições são bem-vindas!
-Abra uma issue ou envie um pull request para sugerir melhorias.
+Abra uma *issue* ou envie um *pull request* para sugerir melhorias.
 
-Feito com 💻 e ☕ por Mateus Demartino Bastos
+---
+
+Feito com 💻 e ☕ por Mateua Demartino Bastos
