@@ -29,9 +29,9 @@
   - `useEffect`
   - `useContext`
 
-## 📸 Preview
+## 🌐 Acesse o Projeto
+[🔗 Clique aqui para acessar o WebCarros](link-do-projeto)
 
-![preview](link-da-imagem-ou-gif-aqui)
 
 ## 📦 Como Rodar o Projeto Localmente
 
