@@ -30,7 +30,7 @@
   - `useContext`
 
 ## 🌐 Acesse o Projeto
-https://web-carros-gules.vercel.app/login
+https://web-carros-gules.vercel.app/
 
 
 ## 📦 Como Rodar o Projeto Localmente
