@@ -106,7 +106,7 @@ export function Dashboard() {
                     <section key={car.id} className="w-full bg-white rounded-lg relative">
 
                         <button className="absolute w-14 h-14 bg-white rounded-full flex items-center justify-center right-2 top-2 cursor-pointer drop-shadow " onClick={() => handleDeleteCar(car)}>
-                            <FiTrash2 size={26} color="#000" />
+                            <FiTrash2 size={26} color="#000" className="transform scale-100 hover:scale-110 transition " />
                         </button>
 
                         <div className="w-full rounded-lg h-72 bg-slate-200"
